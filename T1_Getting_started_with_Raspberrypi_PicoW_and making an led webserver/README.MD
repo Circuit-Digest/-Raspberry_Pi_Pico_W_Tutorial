@@ -1,1 +1,2 @@
-
+In this tutorial, we will learn, How to Program a Raspberry Pi Pico W using MicroPython and understand the basics of the board. In the end of this tutorial you will be able to Setup the MicroPython for Raspberry Pi Pico on your System. And we are going to blink the in-built LED on the Raspberry Pi Pico board.
+After that is done we will create a webserver through which we will wirelessly control the leds
